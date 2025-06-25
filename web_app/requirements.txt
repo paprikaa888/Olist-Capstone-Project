@@ -1,5 +1,4 @@
 altair==5.5.0
-anaconda-anon-usage @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_60q98_n2ty/croot/anaconda-anon-usage_1732732446690/work
 anyio==4.8.0
 appnope==0.1.4
 archspec @ file:///croot/archspec_1709217642129/work
